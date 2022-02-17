@@ -1,0 +1,19 @@
+on/logoimages/ChannelLogo/Pos/132_300.png" group-title="ASTRO",ASTRO WARNA http://bit.ly/astro-WARNA
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whatson/logoimages/ChannelLogo/Pos/104_300.png" group-title="ASTRO",ASTRO Ria http://bit.ly/astro-RIA
+#EXTINF:0 tvg-logo="http://prominentpr.com/wp-content/uploads/2013/01/astroceria.jpg" group-title="ASTRO",ASTRO Ceria http://www.layarku.tv/media/ceria.m3u8
+#EXTINF:-1 tvg-logo="http://www.parlimen.gov.my/images/webuser/pac/logo/PM.jpg"  group-title="TVMALAYSIA",PARLIMEN TV - RTM http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/e40PY2G5_qo/UHp9VhfUHxI/AAAAAAAAHoY/NNY6wGvc6yk/s200-c/muzik+aktif.jpg" grouptitle="TVMALAYSIA",MUZIK AKTIF - RTM
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/chunklist.m3u8 #EXTINF:-1 tvg-logo="itv.png" group-title="TVMALAYSIA",TVi - RTM http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/chunklist.m3u8 #EXTINF:-1 group-title="INDONESIA",INDONESIA TRANS7 http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
+#EXTINF:-0,astro SuperSport 1 & 3
+http://stream.ssh101.com/hls/23456.m3u8
+?
+#EXTINF:-0,astro SuperSport 2
+http://stream.ssh101.com/hls/103654.m3u8
+#EXTINF:-1 group-title="SPORTS", Sky F1 http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 1 http://167.114.41.220:8080/sPPORTSONE/ONE/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 2 http://167.114.41.220:8080/Spooorts/TWO/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 3 http://167.114.41.220:8080/SPORTS/THEREE/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 4 http://167.114.41.220:8080/SPORTSS/Four/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 5 http://167.114.41.220:8080/SPORTSs/FIve/index.m3u8
+#EXTINF:0 group-title="SPORTS",ESPN http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:0 group-title="SPORTS",Fox SPORTS http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sports ar http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
